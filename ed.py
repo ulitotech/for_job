@@ -22,12 +22,12 @@ PATTERN_NAMES = ('00_ТЛ, Обложка.docx', '02_ОУ.docx', '03_ РСО.doc
 XCL_NAMES = ('all_data.xlsx', 'ks_2.xlsx')
 IMAGE_NAMES = ("001.jpg", "002.jpg")
 
-PATTERN_PATH = r'C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\patterns\ex_d\\'
-PATH_OUT = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\out\ex\\"
-PATH_XCL = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\xl\\"
-PATH_PASS = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\patterns\ex_d\pass\\"
-PATH_IMAGE = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\patterns\ex_d\images\\"
-PATH_SCHMS = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\patterns\ex_d\schemes\\"
+PATTERN_PATH = r'C:\Users\IProkopyev\Desktop\silantyev\training_ps\patterns\ex_d\\'
+PATH_OUT = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\out\ex\\"
+PATH_XCL = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\xl\\"
+PATH_PASS = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\patterns\ex_d\pass\\"
+PATH_IMAGE = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\patterns\ex_d\images\\"
+PATH_SCHMS = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\patterns\ex_d\schemes\\"
 
 # PATTERN_PATH = r'C:\Users\IProkopyev\Desktop\training\patterns\ex_d\\'
 # PATH_OUT = r"C:\Users\IProkopyev\Desktop\training\out\ex\\"
