@@ -17,10 +17,10 @@ from docxtpl import InlineImage
 
 PATTERN_NAMES = ('00_ТЛ, Обложка.docx', '02_РП.docx', '03_ Р.docx', '04_РЭ.docx', '01_ВД.docx')
 XCL_NAMES = 'all_data.xlsx'
-PATTERN_PATH = r'C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\patterns\op_d\\'
-PATH_OUT = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\out\op\\"
-PATH_XCL = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\xl\\"
-PATH_PASS = r"C:\Users\IProkopyev\Desktop\silantyev_shit\training_ps\patterns\ex_d\pass\\"
+PATTERN_PATH = r'C:\Users\IProkopyev\Desktop\silantyev\training_ps\patterns\op_d\\'
+PATH_OUT = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\out\op\\"
+PATH_XCL = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\xl\\"
+PATH_PASS = r"C:\Users\IProkopyev\Desktop\silantyev\training_ps\patterns\ex_d\pass\\"
 # PATTERN_NAMES = ('00_ТЛ, Обложка.docx', '02_РП.docx', '03_ Р.docx', '04_РЭ.docx', '01_ВД.docx')
 # XCL_NAMES = 'all_data.xlsx'
 # PATTERN_PATH = r'C:\Users\IProkopyev\Desktop\training\patterns\op_d\\'
